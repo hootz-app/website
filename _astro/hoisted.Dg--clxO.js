@@ -1,0 +1,1 @@
+import"./hoisted.2daoxv0f.js";const n=document.getElementById("open-menu"),t=document.getElementById("close-menu"),e=document.getElementById("mobile-menu");n?.addEventListener("click",()=>{e?.classList.remove("hidden")});t?.addEventListener("click",()=>{e?.classList.add("hidden")});
