@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hootz.ai/sitemap-index.xml
