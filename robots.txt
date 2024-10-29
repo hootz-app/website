@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://timemaster.ai/sitemap-index.xml
+Sitemap: https://hootz.ai/sitemap-index.xml
