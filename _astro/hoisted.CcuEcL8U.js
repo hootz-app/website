@@ -1,1 +1,0 @@
-import"./hoisted.2daoxv0f.js";import"./FaqItem.astro_astro_type_script_index_0_lang.DxFidSNS.js";const n=document.getElementById("open-menu"),t=document.getElementById("close-menu"),e=document.getElementById("mobile-menu");n?.addEventListener("click",()=>{e?.classList.remove("hidden")});t?.addEventListener("click",()=>{e?.classList.add("hidden")});
