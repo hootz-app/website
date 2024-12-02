@@ -1,1 +1,0 @@
-import{j as e}from"./jsx-runtime.ojTTAiD7.js";import"./index.Dck49-wq.js";const i=({buttonText:s,href:t,img:r,style:i})=>e.jsx("div",{className:"block align-centre cursor-pointer text-center justify-center",children:e.jsx("a",{href:t,className:i,children:e.jsxs("span",{className:"flex gap-[10px] items-center justify-center",children:[r,s]})})});export{i as A};

@@ -1,0 +1,1 @@
+import{j as e}from"./jsx-runtime.DxP_Mt0V.js";import"./index.C6tkuxK3.js";const i=({buttonText:s,href:t,img:r,style:i})=>e.jsx("div",{className:"block align-centre cursor-pointer text-center justify-center",children:e.jsx("a",{href:t,className:i,children:e.jsxs("span",{className:"flex gap-[10px] items-center justify-center",children:[r,s]})})});export{i as A};
